@@ -1,0 +1,3 @@
+heloo
+print("tam d d nf)
+hekkoooko
